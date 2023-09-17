@@ -1,7 +1,8 @@
-python-dotenv
-openai
-langchain
-tiktoken
-redlines
-pandas
 docarray
+langchain
+openai
+pandas
+python-dotenv
+redlines
+tiktoken
+wikipedia
